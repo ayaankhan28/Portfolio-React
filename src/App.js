@@ -1,10 +1,23 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Products from './Products';
+import Center from './center';
+import CursorFollower from './cursor';
+import Navbar from './Navbar';
+import Expertise from './expertise';
+import Work from './work';
+
 function App() {
+  
   return (
     <div className="App">
-      <Products />
+      
+      <Navbar />
+      <CursorFollower />
+      <Center />
+      <Expertise />
+      <Work />
+
+
     </div>
   );
 }

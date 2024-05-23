@@ -1,0 +1,10 @@
+.cursor-follower {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none; /* Prevents the element from capturing mouse events */
+  transform: translate(-50%, -50%); /* Centers the shape at the cursor position */
+  transition: transform 0.1s ease-out; /* Smooth transition */
+}

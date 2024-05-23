@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
@@ -35,4 +37,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+body {
+  margin: 0;
+  padding: 0;
+  
+  
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Ensure the background covers the entire viewport */
+  /* Black with 30% transparency (adjust values) */
+  
+  
+
+  background-image: url('./cube2.jpg');
+
+  
 }
