@@ -5,7 +5,8 @@ import CursorFollower from './cursor';
 import Navbar from './Navbar';
 import Expertise from './expertise';
 import Work from './work';
-
+import Profession from './pro';
+import Last from './last';
 function App() {
   
   return (
@@ -16,6 +17,8 @@ function App() {
       <Center />
       <Expertise />
       <Work />
+      <Profession />
+      <Last />
 
 
     </div>
