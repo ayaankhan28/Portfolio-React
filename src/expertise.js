@@ -10,19 +10,21 @@ function Expertise() {
                 ico="Computer" 
                 topic="SOFTWARE DEVELOPMENT" 
                 para="Experienced in both functional and OOP: Dart, Python, Java, JavaScript, TypeScript."
+                c="red"
                 />
                 <Seg3 
                 ico="React Icon" 
                 topic="Frontend Dev
                 React, NextJS" 
                 para="Passionate about UI/UX. Over 5 years of development experience in HTML, CSS, JS, React and NextJS frameworks."
-                
+                c="blue"
                 />
                 <Seg3 
                 ico="Computer Icon" 
                 topic="Flutter Dev
                 Android, iOS" 
                 para="Skilled in developing hybrid mobile apps and cross-platform solutions using the Flutter framework."
+                c="green"
                 />
 
             </div>

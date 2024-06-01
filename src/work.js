@@ -12,6 +12,10 @@ function Work() {
                     Tryotel App
                     View Project
                 </p>
+
+            </div>
+            <div className="right">
+                <img src="/image.png" alt="Work" style={{ width: '48px', height: '48px' }} />
             </div>
         </div>
     );

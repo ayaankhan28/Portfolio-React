@@ -6,11 +6,11 @@ function Navbar() {
         <nav className="navbar">
             <img src="https://tamalsen.dev/wp-content/uploads/2021/06/tamalsen_logo-dark.png" alt="logo" className="logo" />
             <div className="nav-links">
-                <a href="/" className="nav-link">Home</a>
-                <a href="/" className="nav-link">Expertise</a>
-                <a href="/" className="nav-link">Work</a>
-                <a href="/" className="nav-link">Expertise</a>
-                <a href="/" className="nav-link">Contact</a>
+                <a href="/" className="nav-link">// home</a>
+                <a href="/" className="nav-link">// expertise</a>
+                <a href="/" className="nav-link">// work</a>
+                <a href="/" className="nav-link">// experience</a>
+                <a href="/" className="nav-link">// contact</a>
             </div>
             
            

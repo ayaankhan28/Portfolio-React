@@ -5,7 +5,7 @@ function Seg3(params) {
         <div className="seg3">
             <div className="top">
                 <img src={`${process.env.PUBLIC_URL}/favicon.ico`} alt={`${params.ico}`} style={{ width: '48px', height: '48px' }} />
-                <h6>{params.topic}</h6>
+                <h6 style={{textDecorationColor:`${params.c}`}}>{params.topic}</h6>
             </div>
             <div className="btm">
                 <p>{params.para}</p>

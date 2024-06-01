@@ -5,23 +5,50 @@
     flex-direction: row;
     background-color: #000000;
     color: white;
+    font-family: "Roboto Mono", monospace;
     
 }
 .sec1{
     width: 400vw;
-    height: 80vh;
+   
     text-align: left;
     margin-left: 50px;
+    margin-right: 10px;
+   
 
 }
 .sec2,.sec4{
     background-color: #bc60fb;
-    height: 80vh;
+    height: 60vh;
+    padding: 20px;
     
 }
 
 .sec3{
     background-color: #0067dc;
-    height: 80vh;
+    height: 60vh;
     width: 150vw;
+    padding: 20px;
+}
+.sec1 h2{
+    text-decoration: underline;
+    text-decoration-color: #bc60fb;
+    text-decoration-thickness: 7px;
+    ;
+}
+img{
+    width: 80px;
+   
+    border-radius: 50%;
+    
+}
+.sec2 h4{
+    font-size:1.3vw;
+}
+.sec3 p{
+    margin-top: 13px;
+    font-size:1.4vw;
+}
+.sec4 p{
+    font-size:1.2vw;
 }

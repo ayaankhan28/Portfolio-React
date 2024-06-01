@@ -1,9 +1,8 @@
 .work{
     background-color: #1a191d;
     display: flex;
-
-    justify-content:left;
-    flex-direction: column;
+    justify-content:center;
+    flex-direction: row;
     align-items: center;
     height: 95vh;
     color: white;
@@ -14,8 +13,9 @@
 }
 .left {
     text-align: left;
-    width:80%;
-    
+    width:50%;
+    margin-right: 0;
+    padding: 0px;    
 }
 .left p{
     font-size: 1.5rem;
@@ -25,4 +25,13 @@
 .left h1{
     width: 30%;
     margin-bottom: 10px;
+}
+.right img{
+    width: 450px !important; /* Force the width to 150px */
+    height: auto !important; /* Maintain aspect ratio */
+    border-radius: 0%;
+}
+.right{
+    margin: 10px;
+    margin-left: 0px;
 }
