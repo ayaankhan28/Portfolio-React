@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom'; // For routing links
 import './Nav.css';
 function Navbar() {
     return (
