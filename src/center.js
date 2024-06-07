@@ -5,8 +5,8 @@ import "./center.css";
 function Center() {
     return (
         <div className="center">
-            <h1>TAMAL SEN</h1>
-            <p>SOFTWARE ENGINEER, FRONT END & APP DEVELOPER.</p>
+            <h1>AYAAN KHAN</h1>
+            <p>Student at Scaler School of Technology</p>
         </div>
     );
 }

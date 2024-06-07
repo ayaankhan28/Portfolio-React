@@ -8,24 +8,23 @@ function Expertise() {
             <div className="expertness">
                 <Seg3 
                 ico="Computer" 
-                topic="SOFTWARE DEVELOPMENT" 
-                para="Experienced in both functional and OOP: Dart, Python, Java, JavaScript, TypeScript."
+                topic="AI/ML Enthusiast" 
+                para="Experienced in Neural Networks, Deep Learning, Computer Vision, NLP, and LLM using Python, TensorFlow, Keras, and OpenCV."
                 c="red"
                 />
                 <Seg3 
                 ico="React Icon" 
-                topic="Frontend Dev
-                React, NextJS" 
-                para="Passionate about UI/UX. Over 5 years of development experience in HTML, CSS, JS, React and NextJS frameworks."
+                topic="Frontend/Backened Dev" 
+                para="Experience in HTML, CSS, JS, React, Node.js,springboot,MySQL"
                 c="blue"
                 />
                 <Seg3 
-                ico="Computer Icon" 
-                topic="Flutter Dev
-                Android, iOS" 
-                para="Skilled in developing hybrid mobile apps and cross-platform solutions using the Flutter framework."
-                c="green"
+                ico="React Icon" 
+                topic="Competitive Programmer" 
+                para="Experience in DSA, Algorithms, Problem Solving, and Competitive Programming in Java."
+                c="Yellow"
                 />
+               
 
             </div>
         </div>

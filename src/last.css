@@ -52,3 +52,8 @@ img{
 .sec4 p{
     font-size:1.2vw;
 }
+.sec1 a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}

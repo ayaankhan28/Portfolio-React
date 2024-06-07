@@ -19,7 +19,7 @@ function App() {
       <Center />
       <Expertise />
       <Work />
-      <Profession />
+   
       <Last />
 
 
