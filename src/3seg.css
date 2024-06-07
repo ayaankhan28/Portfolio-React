@@ -23,6 +23,7 @@
     align-items: center;
     margin-right: 10px;
     margin-bottom: 0px;
+    padding: 10px;
     gap: 5px; /* Space between the icon and the heading */
    
   }

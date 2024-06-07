@@ -12,6 +12,9 @@ function Work() {
                 </p>
 
             </div>
+            <div className="right">
+                <img src="/hand.png" alt="Work" style={{ width: '10px', height: '10px' }} />
+            </div>
             
         </div>
     );

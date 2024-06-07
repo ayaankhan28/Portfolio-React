@@ -14,7 +14,7 @@ function Expertise() {
                 />
                 <Seg3 
                 ico="React Icon" 
-                topic="Frontend/Backened Dev" 
+                topic="Frontend / Backend Dev" 
                 para="Experience in HTML, CSS, JS, React, Node.js,springboot,MySQL"
                 c="blue"
                 />

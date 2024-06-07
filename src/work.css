@@ -27,9 +27,15 @@
     margin-bottom: 10px;
 }
 .right img{
-    width: 450px !important; /* Force the width to 150px */
+    width: 500px !important; /* Force the width to 150px */
     height: auto !important; /* Maintain aspect ratio */
     border-radius: 0%;
+    transition: border-radius 0.5s ;
+}
+.right img:hover{
+    border-radius: 10%;
+   
+
 }
 .right{
     margin: 10px;

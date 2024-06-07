@@ -9,7 +9,7 @@ function Last() {
                 <h1>Seeking for internships in field of ai,Python development,computer vision</h1>
                 <p>Have an exciting project you need help with?
 Send me an email or contact me via instant message!</p>
-                <h2>ayaan.khan2812@gmai.com</h2>
+                <h2>ayaan.khan2812@gmail.com</h2>
                 <a href="">Instagram</a>
                 <a href="https://github.com/ayaankhan28">Github</a>
                 <a href="https://www.linkedin.com/in/ayaankhan2812/">Linkedin</a>
