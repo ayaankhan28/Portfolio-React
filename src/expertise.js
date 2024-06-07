@@ -3,7 +3,7 @@ import './expertise.css';
 import Seg3 from './3seg';
 function Expertise() {
     return (
-        <div className='Expert'>
+        <div className='Expert' id="expert">
             <h1>My Expertise</h1>
             <div className="expertness">
                 <Seg3 

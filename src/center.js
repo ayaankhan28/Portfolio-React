@@ -4,7 +4,7 @@ import "./center.css";
 
 function Center() {
     return (
-        <div className="center">
+        <div className="center" id="home">
             <h1>AYAAN KHAN</h1>
             <p>Student at Scaler School of Technology</p>
         </div>

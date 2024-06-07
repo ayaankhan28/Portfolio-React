@@ -4,7 +4,7 @@ import "./last.css";
 
 function Last() {
     return (
-        <div className="Last">
+        <div className="Last" id="last">
             <div className="sec1">
                 <h1>Seeking for internships in field of ai,Python development,computer vision</h1>
                 <p>Have an exciting project you need help with?

@@ -5,11 +5,11 @@ function Navbar() {
         <nav className="navbar">
             
             <div className="nav-links">
-                <a href="/" className="nav-link">// home</a>
-                <a href="/" className="nav-link">// expertise</a>
-                <a href="/" className="nav-link">// work</a>
-                <a href="/" className="nav-link">// projects</a>
-                <a href="/" className="nav-link">// contact</a>
+                <a href="#home" className="nav-link">// home</a>
+                <a href="#expert" className="nav-link">// expertise</a>
+                <a href="#work" className="nav-link">// work</a>
+                
+                <a href="#last" className="nav-link">// contact</a>
             </div>
             
            

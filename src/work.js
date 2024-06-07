@@ -2,7 +2,7 @@ import React from "react";
 import "./work.css";
 function Work() {
     return (
-        <div className="work">
+        <div className="work" id="work">
             <div className="left">
                 <h1> MY WORK</h1>
                 <p>Here are some of my projects that I have worked on.
